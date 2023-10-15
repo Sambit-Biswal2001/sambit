@@ -1,3 +1,4 @@
 # sambit
-This is my first git repository
-my name is sambit
+This is my first git repository.
+<br>
+my name is sambit.
